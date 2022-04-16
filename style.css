@@ -1,0 +1,55 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+#right
+{
+  position: fixed;
+  text-decoration: wavy;
+  font-size: 20px;
+  font-family: cursive;
+  color: black;
+  background-color: aqua;
+  padding: 10px 30px;
+  box-shadow: 0 0 10px aqua, 0 0 20px aqua, 0 0 30px aqua, 0 0 40px aqua;
+  border: 0px transparent;
+  margin-left: 850px;
+  margin-top: 460px;
+  border-radius: 10px;
+}
+
+#left
+{
+  position: fixed;
+  text-decoration: wavy;
+  font-size: 20px;
+  font-family: cursive;
+  color: black;
+  background-color: aqua;
+  padding: 10px 30px;
+  box-shadow: 0 0 10px aqua, 0 0 20px aqua, 0 0 30px aqua, 0 0 40px aqua;
+  border: 0px transparent;
+  margin-left: 20px;
+  margin-top: 460px;
+  border-radius: 10px;  
+}
+
+#stop
+{
+  position: fixed;
+  text-decoration: wavy;
+  font-size: 20px;
+  font-family: cursive;
+  color: black;
+  background-color: aqua;
+  padding: 10px 30px;
+  box-shadow: 0 0 10px aqua, 0 0 20px aqua, 0 0 30px aqua, 0 0 40px aqua;
+  border: 0px transparent;
+  margin-left: 400px;
+  margin-top: 460px;
+  border-radius: 10px;    
+}
